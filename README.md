@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SriKasyapK
+- 👀 I’m interested in Software Development, Robotics, AI
+- 🌱 I’m currently learning DSA, Python
+- 📫 How to reach me - srikasyap.k@gmail.com
+- 😄 Pronouns: He/Him
